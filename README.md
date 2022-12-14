@@ -74,14 +74,14 @@
 
 Тест " positiveTest " не принимает входных значений, вызывает методы программы и сравнивает фактический и ожидаемый результаты и выводит соответствующий ответ.  
 
-![]{https://github.com/NAsQuk/TRITPO_6/blob/main/TESTS/теск%20кейс%20ответ%20на%20запрос%20польз._1.png}
+![](https://github.com/NAsQuk/TRITPO_6/blob/main/TESTS/теск%20кейс%20ответ%20на%20запрос%20польз._1.png)
 
 ### 2.3.2 Тестирование алгоритма функции "Генерация ответа н аошибочный ввод"
 
 Тест " handleMethodArgumentTypeMismatchExeption " не принимает входных значений, вызывает методы программы и сравнивает фактический и ожидаемый результаты и выводит соответствующий ответ. 
 
-![]{https://github.com/NAsQuk/TRITPO_6/blob/main/TESTS/тест-комплект%20ошибка_1.png}
-![]{https://github.com/NAsQuk/TRITPO_6/blob/main/TESTS/тест-комплект%20ошибка_2.png}
+![](https://github.com/NAsQuk/TRITPO_6/blob/main/TESTS/тест-комплект%20ошибка_1.png)
+![](https://github.com/NAsQuk/TRITPO_6/blob/main/TESTS/тест-комплект%20ошибка_2.png)
 
 ### 2.4 Нагрузочное тестирование
 
